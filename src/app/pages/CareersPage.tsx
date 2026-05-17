@@ -268,7 +268,7 @@ export function CareersPage() {
             Construya su carrera<br />donde la salud importa.
           </h1>
           <p className="text-white/60 text-lg max-w-2xl leading-relaxed">
-            Únase al equipo de Clínica San José de Cúcuta, institución de tercer nivel con más de 88 años al servicio de la región.
+            Únase al equipo de Clínica San José de Cúcuta, institución de tercer nivel con más de 35 años al servicio de la región.
           </p>
 
           <div className="flex flex-wrap gap-6 mt-8">

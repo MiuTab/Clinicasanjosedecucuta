@@ -184,7 +184,7 @@ export function PacientesInternacionalesPage() {
             style={{ backgroundColor: "rgba(0,133,132,0.05)", borderLeftColor: "rgb(0,133,132)" }}
           >
             <p className="text-[#374151] text-[17px] leading-relaxed">
-              La Clínica San José de Cúcuta cuenta con más de 88 años de trayectoria como institución de referencia para el norte de Colombia y la zona fronteriza. Nuestra proximidad con Venezuela, junto con nuestra capacidad instalada de tercer nivel de complejidad, nos posiciona como destino de salud para miles de pacientes internacionales que eligen Colombia por la calidad de su medicina, la disponibilidad oportuna de citas y los costos comparativamente favorables frente a otros países de la región.
+              La Clínica San José de Cúcuta cuenta con más de 35 años de trayectoria como institución de referencia para el norte de Colombia y la zona fronteriza. Nuestra proximidad con Venezuela, junto con nuestra capacidad instalada de tercer nivel de complejidad, nos posiciona como destino de salud para miles de pacientes internacionales que eligen Colombia por la calidad de su medicina, la disponibilidad oportuna de citas y los costos comparativamente favorables frente a otros países de la región.
             </p>
           </div>
         </FadeIn>
@@ -382,7 +382,7 @@ export function PacientesInternacionalesPage() {
         <FadeIn className="max-w-7xl mx-auto px-6 lg:px-8 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-[#0d1b2a] font-bold text-xl mb-1">Atención médica avanzada con calidez humana.</h3>
-            <p className="text-[#6b7280] text-sm">Más de 88 años cuidando la salud de las familias del Norte de Santander y la región.</p>
+            <p className="text-[#6b7280] text-sm">Más de 35 años cuidando la salud de las familias del Norte de Santander y la región.</p>
           </div>
           <div className="flex gap-3 shrink-0">
             <Link to="/" className="px-5 py-2.5 rounded-xl border border-black/10 text-[#374151] font-medium text-sm hover:border-[rgb(0,133,132)] hover:text-[rgb(0,133,132)] transition-all">

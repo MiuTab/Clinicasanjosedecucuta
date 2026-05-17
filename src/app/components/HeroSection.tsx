@@ -62,7 +62,7 @@ export function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.55, delay: 0.5, ease }}
           >
-            Más de 88 años cuidando la salud de las familias del Norte de Santander con tecnología de vanguardia, especialistas de alto nivel y un compromiso genuino con cada paciente.
+            Más de 35 años cuidando la salud de las familias del Norte de Santander con tecnología de vanguardia, especialistas de alto nivel y un compromiso genuino con cada paciente.
           </motion.p>
 
           {/* CTAs */}
@@ -97,7 +97,7 @@ export function HeroSection() {
             variants={{ visible: { transition: { staggerChildren: 0.1, delayChildren: 0.75 } } }}
           >
             {[
-              { value: "88+", label: "Años de Trayectoria" },
+              { value: "35+", label: "Años de Trayectoria" },
               { value: "450+", label: "Médicos Especialistas" },
               { value: "300", label: "Camas Disponibles" },
               { value: "100K+", label: "Pacientes por Año" },

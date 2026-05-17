@@ -319,7 +319,7 @@ export function AboutPageLayout({ data }: Props) {
               Atención médica avanzada con calidez humana.
             </h3>
             <p className="text-[#6b7280] text-sm">
-              Más de 88 años cuidando la salud de las familias del Norte de Santander.
+              Más de 35 años cuidando la salud de las familias del Norte de Santander.
             </p>
           </div>
           <div className="flex gap-3 shrink-0">

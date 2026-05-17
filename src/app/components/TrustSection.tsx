@@ -26,8 +26,8 @@ const pillars = [
 ];
 
 const stats = [
-  { value: "1936", label: "Año de Fundación" },
-  { value: "88+", label: "Años al Servicio" },
+  { value: "1989", label: "Año de Fundación" },
+  { value: "35+", label: "Años al Servicio" },
   { value: "300", label: "Camas" },
   { value: "24/7", label: "Urgencias" },
   { value: "15+", label: "Especialidades" },
@@ -45,7 +45,7 @@ export function TrustSection() {
             <div className="flex items-center gap-3 mb-6">
               <div className="h-px w-10 bg-[rgb(0,133,132)]" />
               <span className="text-[rgb(0,133,132)] text-xs font-semibold uppercase tracking-[0.2em]">
-                Desde 1936
+                Desde 1989
               </span>
             </div>
             <h2 className="text-[#0d1b2a] mb-6 leading-tight" style={{ fontSize: "clamp(1.9rem, 3.5vw, 2.75rem)", fontWeight: 700 }}>
@@ -55,7 +55,7 @@ export function TrustSection() {
               Clínica San José de Cúcuta es una institución prestadora de servicios de salud (IPS) de tercer nivel de complejidad, referente regional en Norte de Santander y el nororiente colombiano.
             </p>
             <p className="text-[#6b7280] text-base leading-relaxed mb-8">
-              Fundada en 1936, la clínica ha evolucionado continuamente para ofrecer atención médica integral, humanizada y de alta calidad a los habitantes de la región y pacientes internacionales provenientes del vecino país Venezuela.
+              Fundada en 1989, la clínica ha evolucionado continuamente para ofrecer atención médica integral, humanizada y de alta calidad a los habitantes de la región y pacientes internacionales provenientes del vecino país Venezuela.
             </p>
             <div className="flex flex-wrap gap-3">
               {["ICONTEC", "MinSalud", "Nivel III", "ISO 9001"].map((cert) => (
@@ -80,7 +80,7 @@ export function TrustSection() {
                 <div className="absolute inset-0 bg-gradient-to-t from-[#0d1b2a]/40 to-transparent" />
               </div>
               <div className="absolute -bottom-6 -left-6 bg-white rounded-2xl shadow-xl shadow-black/10 p-5 border border-black/5">
-                <div className="text-[rgb(0,133,132)] font-bold text-3xl leading-none mb-1">88+</div>
+                <div className="text-[rgb(0,133,132)] font-bold text-3xl leading-none mb-1">35+</div>
                 <div className="text-[#6b7280] text-xs uppercase tracking-wide">Años de Excelencia</div>
               </div>
             </div>

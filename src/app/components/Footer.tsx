@@ -62,7 +62,7 @@ export function Footer() {
             </div>
 
             <p className="text-white/45 text-[13px] leading-relaxed mb-6">
-              Institución prestadora de servicios de salud de tercer nivel de complejidad. Más de 88 años al servicio de la región.
+              Institución prestadora de servicios de salud de tercer nivel de complejidad. Más de 35 años al servicio de la región.
             </p>
 
             <div className="flex flex-col gap-2.5 text-[13px] text-white/50">

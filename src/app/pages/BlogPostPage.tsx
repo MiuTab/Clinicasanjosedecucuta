@@ -289,7 +289,7 @@ export function BlogPostPage() {
         <FadeIn className="max-w-7xl mx-auto px-6 lg:px-8 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-[#0d1b2a] font-bold text-xl mb-1">Atención médica avanzada con calidez humana.</h3>
-            <p className="text-[#6b7280] text-sm">Más de 88 años cuidando la salud de las familias del Norte de Santander.</p>
+            <p className="text-[#6b7280] text-sm">Más de 35 años cuidando la salud de las familias del Norte de Santander.</p>
           </div>
           <div className="flex gap-3 shrink-0">
             <Link
