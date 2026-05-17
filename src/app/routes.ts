@@ -24,11 +24,12 @@ import { LegalPage } from "./pages/LegalPage";
 import { PacientesInternacionalesPage } from "./pages/PacientesInternacionalesPage";
 import { CareersPage } from "./pages/CareersPage";
 
-export const router = createBrowserRouter([
-  {
-    path: "/",
-    Component: Root,
-    children: [
+export const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      Component: Root,
+      children: [
       { index: true, Component: Home },
       // Servicios
       { path: "servicios/cirugia", Component: CirugiaPage },
@@ -56,4 +57,6 @@ export const router = createBrowserRouter([
       { path: "carreras", Component: CareersPage },
     ],
   },
-]);
+],
+  { basename: '/Clinicasanjosedecucuta/' }
+);
